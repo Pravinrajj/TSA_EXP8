@@ -1,8 +1,6 @@
 # Ex.No: 08     MOVINTG AVERAGE MODEL AND EXPONENTIAL SMOOTHING
 ### Date: 
 
-### DEVELOPED BY: PRAVINRAJJ G.K
-### REGISTER NO: 212222240080
 ### AIM:
 To implement Moving Average Model and Exponential smoothing Using Python.
 ### ALGORITHM:
